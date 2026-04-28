@@ -53,12 +53,13 @@ body {
   border: 1px solid rgb(226, 232, 240);
   border-radius: 12px;
   box-shadow: rgba(0, 0, 0, 0.1) 0 1px 3px;
+  box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
   justify-content: space-between;
   margin: 0 auto 24px;
-  max-width: 1200px;
+  max-width: 1088px;
   padding: 20px 24px;
   transition: 0.2s;
 }
@@ -84,18 +85,16 @@ body {
 }
 
 .ms-Dropdown.dropdown-171 {
-  align-items: center;
   background-color: rgb(235, 235, 237);
   border: 1px solid rgb(55, 55, 55);
   border-radius: 2px;
+  box-sizing: border-box;
   color: rgb(0, 0, 0);
   cursor: pointer;
-  display: flex;
+  display: block;
   font-size: 14px;
   height: 32px;
-  justify-content: space-between;
   line-height: normal;
-  padding: 1px 8px 1px 12px;
   position: relative;
   user-select: none;
 }
@@ -107,28 +106,43 @@ body {
 }
 
 .ms-Dropdown-title.title-202 {
+  box-sizing: border-box;
+  display: block;
   font-size: 14px;
-  line-height: 32px;
+  height: 32px;
+  line-height: 30px;
   color: rgb(0, 0, 0);
   overflow: hidden;
+  padding: 0 28px 0 8px;
   text-overflow: ellipsis;
   white-space: nowrap;
+  width: 100%;
 }
 
 .ms-Dropdown-caretDownWrapper.caretDownWrapper-173 {
-  align-items: center;
-  display: inline-flex;
-  height: 100%;
-  justify-content: center;
-  margin-left: 6px;
-  width: 24px;
+  box-sizing: border-box;
+  display: block;
+  height: 32px;
+  padding-top: 1px;
+  position: absolute;
+  right: 8px;
+  top: 0;
+  width: 12px;
 }
 
 .ms-Dropdown-caretDown.caretDown-189 {
   color: rgb(96, 94, 92);
-  display: inline-flex;
-  height: 16px;
-  width: 16px;
+  display: inline-block;
+  font-size: 12px;
+  height: 30px;
+  width: 12px;
+}
+
+.ms-Dropdown-caretDown.caretDown-189 svg {
+  display: block;
+  height: 12px;
+  margin-top: 9px;
+  width: 12px;
 }
 
 .ms-Dropdown-items_2943a085 {
@@ -169,6 +183,7 @@ body {
   background-color: rgb(235, 235, 237);
   border: 1px solid rgb(55, 55, 55);
   border-radius: 2px;
+  box-sizing: border-box;
   display: flex;
   height: 32px;
   padding: 1px 0 1px 4px;
@@ -176,7 +191,7 @@ body {
 
 .ms-SearchBox-iconContainer.iconContainer-192 {
   align-items: center;
-  color: rgb(96, 94, 92);
+  color: rgb(41, 41, 43);
   display: inline-flex;
   flex: 0 0 auto;
   height: 100%;
@@ -185,9 +200,17 @@ body {
 }
 
 .ms-SearchBox-icon.icon-196 {
-  display: inline-flex;
+  align-items: center;
+  display: flex;
   height: 16px;
-  width: 16px;
+  justify-content: center;
+  width: 32px;
+}
+
+.ms-SearchBox-icon.icon-196 svg {
+  display: block;
+  height: 18px;
+  width: 18px;
 }
 
 .ms-SearchBox-field.field-195 {
@@ -199,17 +222,18 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: normal;
-  height: 100%;
+  height: 28px;
   outline: 0;
   padding: 0;
 }
 
 .ms-SearchBox-field.field-195::placeholder {
-  color: rgb(96, 94, 92);
+  color: rgb(55, 55, 55);
   font-family: inherit;
   font-size: 14px;
   font-weight: 400;
   line-height: normal;
+  opacity: 1;
 }
 
 .podium_2943a085 {
@@ -767,6 +791,7 @@ body {
   .filterBar_2943a085 {
     align-items: stretch;
     flex-direction: column;
+    max-width: 100%;
     padding: 16px;
   }
 

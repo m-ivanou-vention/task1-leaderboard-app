@@ -1,0 +1,280 @@
+[
+  {
+    "id": "aster-vale",
+    "name": "Aster Vale",
+    "role": "Principal Learning Architect (NX.LAB.CORE)",
+    "activities": [
+      { "title": "Signal Patterns Clinic", "category": "Knowledge Sessions", "date": "2026-02-11", "points": 48 },
+      { "title": "System Maps for Fast Teams", "category": "Live Workshops", "date": "2026-03-05", "points": 64 },
+      { "title": "Studio Bridge Forum", "category": "Partner Outreach", "date": "2026-05-14", "points": 32 },
+      { "title": "Decision Loops Intensive", "category": "Knowledge Sessions", "date": "2026-06-10", "points": 48 },
+      { "title": "Runtime Habits Workshop", "category": "Live Workshops", "date": "2026-08-19", "points": 64 },
+      { "title": "Cross-Lab Mentor Session", "category": "Partner Outreach", "date": "2026-10-07", "points": 40 },
+      { "title": "Adaptive Delivery Briefing", "category": "Knowledge Sessions", "date": "2026-11-18", "points": 48 },
+      { "title": "Craft Systems Roundtable", "category": "Live Workshops", "date": "2026-12-09", "points": 64 }
+    ]
+  },
+  {
+    "id": "milo-hart",
+    "name": "Milo Hart",
+    "role": "Senior Practice Composer (AT.SYS.FORGE)",
+    "activities": [
+      { "title": "Mentor Mesh Open Hours", "category": "Partner Outreach", "date": "2026-01-21", "points": 32 },
+      { "title": "Story-Driven Demos", "category": "Live Workshops", "date": "2026-03-18", "points": 64 },
+      { "title": "Feedback Systems Primer", "category": "Knowledge Sessions", "date": "2026-04-16", "points": 48 },
+      { "title": "North Star Office Hours", "category": "Knowledge Sessions", "date": "2026-05-21", "points": 48 },
+      { "title": "Field Notes Exchange", "category": "Partner Outreach", "date": "2026-07-02", "points": 40 },
+      { "title": "Prompting in Product Teams", "category": "Live Workshops", "date": "2026-09-15", "points": 64 },
+      { "title": "Working Agreements Lab", "category": "Knowledge Sessions", "date": "2026-11-05", "points": 48 }
+    ]
+  },
+  {
+    "id": "nia-rowan",
+    "name": "Nia Rowan",
+    "role": "Lead Studio Navigator (ORB.PATH.SEED)",
+    "activities": [
+      { "title": "Blueprint Review Series", "category": "Knowledge Sessions", "date": "2026-02-03", "points": 48 },
+      { "title": "Partner Kickoff Playbook", "category": "Partner Outreach", "date": "2026-03-25", "points": 40 },
+      { "title": "Hands-On Sprint Lab", "category": "Live Workshops", "date": "2026-04-29", "points": 64 },
+      { "title": "Guide Rails Session", "category": "Knowledge Sessions", "date": "2026-06-18", "points": 48 },
+      { "title": "Community Launch Desk", "category": "Partner Outreach", "date": "2026-09-09", "points": 40 },
+      { "title": "Facilitation Mechanics", "category": "Live Workshops", "date": "2026-10-21", "points": 64 }
+    ]
+  },
+  {
+    "id": "theo-march",
+    "name": "Theo March",
+    "role": "Practice Systems Editor (VX.PULSE.LINE)",
+    "activities": [
+      { "title": "Pattern Language Notes", "category": "Knowledge Sessions", "date": "2026-01-13", "points": 48 },
+      { "title": "Workshop Rehearsal Circuit", "category": "Live Workshops", "date": "2026-02-24", "points": 64 },
+      { "title": "Alliance Field Session", "category": "Partner Outreach", "date": "2026-05-06", "points": 40 },
+      { "title": "Operating Cadence Review", "category": "Knowledge Sessions", "date": "2026-07-22", "points": 48 },
+      { "title": "Open Demo Day", "category": "Live Workshops", "date": "2026-09-30", "points": 64 },
+      { "title": "Builder Circle Exchange", "category": "Partner Outreach", "date": "2026-12-03", "points": 40 }
+    ]
+  },
+  {
+    "id": "iris-flint",
+    "name": "Iris Flint",
+    "role": "Senior Enablement Cartographer (MN.ARC.VISTA)",
+    "activities": [
+      { "title": "Journey Mapping Intro", "category": "Knowledge Sessions", "date": "2026-01-29", "points": 48 },
+      { "title": "Delivery Signals Workshop", "category": "Live Workshops", "date": "2026-04-08", "points": 64 },
+      { "title": "Studio Connector Session", "category": "Partner Outreach", "date": "2026-06-24", "points": 40 },
+      { "title": "Healthy Handoffs Seminar", "category": "Knowledge Sessions", "date": "2026-08-05", "points": 48 },
+      { "title": "Narrative Review Room", "category": "Live Workshops", "date": "2026-11-12", "points": 64 }
+    ]
+  },
+  {
+    "id": "pax-linden",
+    "name": "Pax Linden",
+    "role": "Adaptive Programs Curator (GL.NOVA.HUB)",
+    "activities": [
+      { "title": "Quarter Open Review", "category": "Knowledge Sessions", "date": "2026-02-17", "points": 48 },
+      { "title": "Signals and Rituals", "category": "Live Workshops", "date": "2026-03-31", "points": 64 },
+      { "title": "Partner Studio Sync", "category": "Partner Outreach", "date": "2026-05-27", "points": 40 },
+      { "title": "Flow Clinic", "category": "Knowledge Sessions", "date": "2026-09-01", "points": 48 },
+      { "title": "Practical Facilitation", "category": "Live Workshops", "date": "2026-10-14", "points": 64 }
+    ]
+  },
+  {
+    "id": "lena-quill",
+    "name": "Lena Quill",
+    "role": "Learning Experience Conductor (AZ.WAVE.DECK)",
+    "activities": [
+      { "title": "Context Windows Session", "category": "Knowledge Sessions", "date": "2026-01-08", "points": 48 },
+      { "title": "Studio Practice Run", "category": "Live Workshops", "date": "2026-04-22", "points": 64 },
+      { "title": "Alliance Launch Table", "category": "Partner Outreach", "date": "2026-08-12", "points": 40 },
+      { "title": "Clarity by Design", "category": "Knowledge Sessions", "date": "2026-10-06", "points": 48 }
+    ]
+  },
+  {
+    "id": "soren-pike",
+    "name": "Soren Pike",
+    "role": "Principal Workshop Mechanic (KT.RIDGE.FLOW)",
+    "activities": [
+      { "title": "Working Memory Primer", "category": "Knowledge Sessions", "date": "2026-02-26", "points": 48 },
+      { "title": "Prompt Design Live", "category": "Live Workshops", "date": "2026-05-12", "points": 64 },
+      { "title": "Open Partner Roundtable", "category": "Partner Outreach", "date": "2026-07-28", "points": 40 },
+      { "title": "Decision Archive Review", "category": "Knowledge Sessions", "date": "2026-11-25", "points": 48 }
+    ]
+  },
+  {
+    "id": "cora-bell",
+    "name": "Cora Bell",
+    "role": "Practice Momentum Steward (SV.LOOM.FIELD)",
+    "activities": [
+      { "title": "Guidepost Clinic", "category": "Knowledge Sessions", "date": "2026-03-11", "points": 48 },
+      { "title": "Workspace Habits Workshop", "category": "Live Workshops", "date": "2026-06-03", "points": 64 },
+      { "title": "Partner Readiness Session", "category": "Partner Outreach", "date": "2026-09-23", "points": 40 }
+    ]
+  },
+  {
+    "id": "jules-arden",
+    "name": "Jules Arden",
+    "role": "Enablement Signal Designer (PR.CANVAS.SET)",
+    "activities": [
+      { "title": "Pattern Feedback Desk", "category": "Knowledge Sessions", "date": "2026-02-09", "points": 48 },
+      { "title": "Live Facilitation Lab", "category": "Live Workshops", "date": "2026-07-08", "points": 64 },
+      { "title": "Bridge Builder Forum", "category": "Partner Outreach", "date": "2026-10-29", "points": 40 }
+    ]
+  },
+  {
+    "id": "mara-sol",
+    "name": "Mara Sol",
+    "role": "Learning Programs Builder (UN.ATLAS.NEST)",
+    "activities": [
+      { "title": "Session Flow Notes", "category": "Knowledge Sessions", "date": "2026-03-03", "points": 48 },
+      { "title": "Hands-On Review Room", "category": "Live Workshops", "date": "2026-08-26", "points": 64 }
+    ]
+  },
+  {
+    "id": "rex-hollow",
+    "name": "Rex Hollow",
+    "role": "Senior Systems Storyteller (EQ.CIRCUIT.BAY)",
+    "activities": [
+      { "title": "Signal Framing Brief", "category": "Knowledge Sessions", "date": "2026-04-14", "points": 48 },
+      { "title": "Partner Relay Table", "category": "Partner Outreach", "date": "2026-12-16", "points": 40 }
+    ]
+  },
+  {
+    "id": "tara-wren",
+    "name": "Tara Wren",
+    "role": "Learning Operations Partner (QD.FIELD.KITE)",
+    "activities": [
+      { "title": "Foundations Sprint Brief", "category": "Knowledge Sessions", "date": "2026-01-15", "points": 48 },
+      { "title": "Workshop Flight Check", "category": "Live Workshops", "date": "2026-03-19", "points": 64 },
+      { "title": "Alliance Intake Circle", "category": "Partner Outreach", "date": "2026-05-28", "points": 40 },
+      { "title": "Facilitator Notes Review", "category": "Knowledge Sessions", "date": "2026-08-13", "points": 48 },
+      { "title": "Studio Demo Relay", "category": "Live Workshops", "date": "2026-11-04", "points": 64 }
+    ]
+  },
+  {
+    "id": "owen-pryce",
+    "name": "Owen Pryce",
+    "role": "Senior Capability Coach (LM.GRID.HARBOR)",
+    "activities": [
+      { "title": "Delivery Compass Session", "category": "Knowledge Sessions", "date": "2026-02-04", "points": 48 },
+      { "title": "Interactive Practice Lab", "category": "Live Workshops", "date": "2026-04-17", "points": 64 },
+      { "title": "Partner Onboarding Table", "category": "Partner Outreach", "date": "2026-06-26", "points": 40 },
+      { "title": "Signals Debrief Room", "category": "Knowledge Sessions", "date": "2026-09-17", "points": 48 },
+      { "title": "Field Workshop Circuit", "category": "Live Workshops", "date": "2026-12-10", "points": 64 }
+    ]
+  },
+  {
+    "id": "vera-north",
+    "name": "Vera North",
+    "role": "Practice Delivery Steward (CX.TERRAIN.LOFT)",
+    "activities": [
+      { "title": "Shared Vocabulary Clinic", "category": "Knowledge Sessions", "date": "2026-01-30", "points": 48 },
+      { "title": "Scenario Rehearsal Desk", "category": "Live Workshops", "date": "2026-05-07", "points": 64 },
+      { "title": "Partner Guide Exchange", "category": "Partner Outreach", "date": "2026-07-16", "points": 40 },
+      { "title": "Enablement Review Notes", "category": "Knowledge Sessions", "date": "2026-10-08", "points": 48 }
+    ]
+  },
+  {
+    "id": "kian-mercer",
+    "name": "Kian Mercer",
+    "role": "Studio Learning Engineer (RD.MAPLE.FORUM)",
+    "activities": [
+      { "title": "Context Primer Session", "category": "Knowledge Sessions", "date": "2026-02-20", "points": 48 },
+      { "title": "Working Session Broadcast", "category": "Live Workshops", "date": "2026-03-27", "points": 64 },
+      { "title": "Launch Partner Huddle", "category": "Partner Outreach", "date": "2026-08-21", "points": 40 },
+      { "title": "Pattern Recall Clinic", "category": "Knowledge Sessions", "date": "2026-09-11", "points": 48 },
+      { "title": "Practice Run Forum", "category": "Live Workshops", "date": "2026-11-26", "points": 64 }
+    ]
+  },
+  {
+    "id": "dahlia-frost",
+    "name": "Dahlia Frost",
+    "role": "Principal Workshop Curator (ST.ATLAS.COVE)",
+    "activities": [
+      { "title": "Mentor Rhythm Session", "category": "Knowledge Sessions", "date": "2026-01-09", "points": 48 },
+      { "title": "Hands-On Builder Hour", "category": "Live Workshops", "date": "2026-04-02", "points": 64 },
+      { "title": "Regional Partner Desk", "category": "Partner Outreach", "date": "2026-06-11", "points": 40 },
+      { "title": "Guidebook Improvement Review", "category": "Knowledge Sessions", "date": "2026-08-27", "points": 48 },
+      { "title": "Live Systems Debrief", "category": "Live Workshops", "date": "2026-10-15", "points": 64 },
+      { "title": "Open Alliance Circle", "category": "Partner Outreach", "date": "2026-12-17", "points": 40 }
+    ]
+  },
+  {
+    "id": "bram-sloane",
+    "name": "Bram Sloane",
+    "role": "Learning Platform Lead (UV.ORBIT.FORGE)",
+    "activities": [
+      { "title": "Session Notes Exchange", "category": "Knowledge Sessions", "date": "2026-03-06", "points": 48 },
+      { "title": "Instructor Simulation Lab", "category": "Live Workshops", "date": "2026-05-20", "points": 64 },
+      { "title": "Partner Discovery Window", "category": "Partner Outreach", "date": "2026-07-30", "points": 40 },
+      { "title": "Operating Signals Review", "category": "Knowledge Sessions", "date": "2026-10-29", "points": 48 }
+    ]
+  },
+  {
+    "id": "lyra-finch",
+    "name": "Lyra Finch",
+    "role": "Enablement Programs Analyst (NB.CANOPY.TRACK)",
+    "activities": [
+      { "title": "Quarter Guide Session", "category": "Knowledge Sessions", "date": "2026-02-12", "points": 48 },
+      { "title": "Workshop Pattern Review", "category": "Live Workshops", "date": "2026-06-09", "points": 64 },
+      { "title": "Partner Liaison Room", "category": "Partner Outreach", "date": "2026-09-03", "points": 40 },
+      { "title": "Practice Health Check", "category": "Knowledge Sessions", "date": "2026-11-19", "points": 48 }
+    ]
+  },
+  {
+    "id": "quinn-hale",
+    "name": "Quinn Hale",
+    "role": "Studio Community Architect (JR.SIGNAL.DOCK)",
+    "activities": [
+      { "title": "Blueprint Reading Circle", "category": "Knowledge Sessions", "date": "2026-01-22", "points": 48 },
+      { "title": "Facilitation Replay Lab", "category": "Live Workshops", "date": "2026-04-24", "points": 64 },
+      { "title": "Alliance Feedback Table", "category": "Partner Outreach", "date": "2026-07-01", "points": 40 },
+      { "title": "Guidepost Review Forum", "category": "Knowledge Sessions", "date": "2026-09-24", "points": 48 },
+      { "title": "Builder Showcase Session", "category": "Live Workshops", "date": "2026-12-01", "points": 64 }
+    ]
+  },
+  {
+    "id": "esme-calder",
+    "name": "Esme Calder",
+    "role": "Senior Training Systems Partner (FH.RADIUS.NOTE)",
+    "activities": [
+      { "title": "Onboarding Signals Intro", "category": "Knowledge Sessions", "date": "2026-03-12", "points": 48 },
+      { "title": "Live Enablement Studio", "category": "Live Workshops", "date": "2026-05-13", "points": 64 },
+      { "title": "Partner Planning Forum", "category": "Partner Outreach", "date": "2026-08-06", "points": 40 },
+      { "title": "Practice Archive Review", "category": "Knowledge Sessions", "date": "2026-11-10", "points": 48 }
+    ]
+  },
+  {
+    "id": "noah-voss",
+    "name": "Noah Voss",
+    "role": "Capability Programs Designer (TK.PIVOT.BRIDGE)",
+    "activities": [
+      { "title": "Signals Primer Office Hour", "category": "Knowledge Sessions", "date": "2026-02-18", "points": 48 },
+      { "title": "Workshop Systems Walkthrough", "category": "Live Workshops", "date": "2026-06-30", "points": 64 },
+      { "title": "Alliance Contact Desk", "category": "Partner Outreach", "date": "2026-10-01", "points": 40 },
+      { "title": "Learning Review Board", "category": "Knowledge Sessions", "date": "2026-12-08", "points": 48 }
+    ]
+  },
+  {
+    "id": "piper-ash",
+    "name": "Piper Ash",
+    "role": "Enablement Experience Lead (YL.STUDIO.TIDE)",
+    "activities": [
+      { "title": "Shared Practices Clinic", "category": "Knowledge Sessions", "date": "2026-01-28", "points": 48 },
+      { "title": "Interactive Sprint Broadcast", "category": "Live Workshops", "date": "2026-03-10", "points": 64 },
+      { "title": "Partner Warmup Session", "category": "Partner Outreach", "date": "2026-05-05", "points": 40 },
+      { "title": "Pattern Coaching Review", "category": "Knowledge Sessions", "date": "2026-08-20", "points": 48 },
+      { "title": "Live Facilitation Exchange", "category": "Live Workshops", "date": "2026-11-24", "points": 64 }
+    ]
+  },
+  {
+    "id": "felix-rowan",
+    "name": "Felix Rowan",
+    "role": "Practice Engagement Specialist (HD.CREST.NEXUS)",
+    "activities": [
+      { "title": "Guiderail Primer", "category": "Knowledge Sessions", "date": "2026-04-09", "points": 48 },
+      { "title": "Workshop Debug Session", "category": "Live Workshops", "date": "2026-07-14", "points": 64 },
+      { "title": "Alliance Listening Post", "category": "Partner Outreach", "date": "2026-09-29", "points": 40 },
+      { "title": "Capability Signals Forum", "category": "Knowledge Sessions", "date": "2026-12-15", "points": 48 }
+    ]
+  }
+]
